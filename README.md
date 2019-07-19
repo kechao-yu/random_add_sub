@@ -3,3 +3,7 @@
 page=45<每页45个题>）
 
 exe目录是打包好的可执行程序
+详见：
+https://www.cnblogs.com/octmonth/p/11102972.html
+
+代码略有修改
